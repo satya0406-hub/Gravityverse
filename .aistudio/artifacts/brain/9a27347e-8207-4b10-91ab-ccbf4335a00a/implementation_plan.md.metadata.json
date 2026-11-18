@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to fix Google Search grounding in the chat assistant, ensuring every query is dynamically grounded with live Google Search data via Gemini, displaying rich interactive source cards below answers, and eliminating outdated responses through resilient model routing and real-time grounding verification.",
+  "updatedAt": "2026-10-19T16:13:00.946548914Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GravityVerse",
+  "description": "An intelligent academic and campus utility platform featuring student AI assistance, verified campus event discovery, 10-point GPA calculations, and educational tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

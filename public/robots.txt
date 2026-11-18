@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+
+# Sitemaps
+Sitemap: https://gravityverse.in/sitemap.xml
